@@ -4,7 +4,7 @@ Hey there! In this project, we're using this super cool tool called Weights & Bi
 Check Out Our Project Dashboard
 Want to see how our project is doing? Click on the link below to check out our dashboard on Weights & Biases. It's where we keep all our project's progress and results:
 
-(https://wandb.ai/dariuswork/nyc_airbnb?workspace=user-dariusstroman
+https://wandb.ai/dariuswork/nyc_airbnb?workspace=user-dariusstroman
 
 On the dashboard, you'll find stuff like:
 
