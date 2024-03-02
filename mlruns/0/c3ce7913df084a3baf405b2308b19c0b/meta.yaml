@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c3ce7913df084a3baf405b2308b19c0b/artifacts
+end_time: 1709335907796
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3ce7913df084a3baf405b2308b19c0b
+run_name: rambunctious-eel-101
+run_uuid: c3ce7913df084a3baf405b2308b19c0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709335900085
+status: 3
+tags: []
+user_id: dariusstrongman

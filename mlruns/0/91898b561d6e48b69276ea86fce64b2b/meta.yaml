@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/91898b561d6e48b69276ea86fce64b2b/artifacts
+end_time: 1709271327428
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91898b561d6e48b69276ea86fce64b2b
+run_name: bright-toad-452
+run_uuid: 91898b561d6e48b69276ea86fce64b2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709271324345
+status: 4
+tags: []
+user_id: dariusstrongman

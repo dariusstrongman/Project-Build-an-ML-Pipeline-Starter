@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/84670b1259c24bb0bdd898dabf7b5528/artifacts
+end_time: 1709273978475
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84670b1259c24bb0bdd898dabf7b5528
+run_name: exultant-panda-612
+run_uuid: 84670b1259c24bb0bdd898dabf7b5528
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709273963353
+status: 4
+tags: []
+user_id: dariusstrongman

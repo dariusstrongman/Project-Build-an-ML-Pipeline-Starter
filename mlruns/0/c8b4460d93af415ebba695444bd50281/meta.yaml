@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c8b4460d93af415ebba695444bd50281/artifacts
+end_time: 1709337789572
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8b4460d93af415ebba695444bd50281
+run_name: amusing-bat-886
+run_uuid: c8b4460d93af415ebba695444bd50281
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709337775809
+status: 3
+tags: []
+user_id: dariusstrongman

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6ecbf84b9a7646b4978ed2562cb29ad7/artifacts
+end_time: 1709335963834
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ecbf84b9a7646b4978ed2562cb29ad7
+run_name: classy-mink-772
+run_uuid: 6ecbf84b9a7646b4978ed2562cb29ad7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709335951967
+status: 4
+tags: []
+user_id: dariusstrongman

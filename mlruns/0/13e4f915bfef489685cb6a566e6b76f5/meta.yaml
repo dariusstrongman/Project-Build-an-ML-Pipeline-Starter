@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/13e4f915bfef489685cb6a566e6b76f5/artifacts
+end_time: 1709269989080
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13e4f915bfef489685cb6a566e6b76f5
+run_name: melodic-carp-892
+run_uuid: 13e4f915bfef489685cb6a566e6b76f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709269972761
+status: 3
+tags: []
+user_id: dariusstrongman

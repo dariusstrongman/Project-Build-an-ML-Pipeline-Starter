@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5a241f49ec194f38aa1c9f02484817ca/artifacts
+end_time: 1709272081710
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a241f49ec194f38aa1c9f02484817ca
+run_name: blushing-tern-890
+run_uuid: 5a241f49ec194f38aa1c9f02484817ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709272069779
+status: 3
+tags: []
+user_id: dariusstrongman

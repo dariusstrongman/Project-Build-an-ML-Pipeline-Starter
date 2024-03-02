@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/34c82ae9e2e44a5a937f7733b47cc11e/artifacts
+end_time: 1709258631772
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34c82ae9e2e44a5a937f7733b47cc11e
+run_name: unruly-wolf-519
+run_uuid: 34c82ae9e2e44a5a937f7733b47cc11e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709258627269
+status: 3
+tags: []
+user_id: dariusstrongman

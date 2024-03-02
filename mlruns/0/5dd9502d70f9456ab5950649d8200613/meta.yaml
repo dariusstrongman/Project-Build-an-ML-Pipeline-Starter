@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5dd9502d70f9456ab5950649d8200613/artifacts
+end_time: 1709270844621
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5dd9502d70f9456ab5950649d8200613
+run_name: zealous-gnat-822
+run_uuid: 5dd9502d70f9456ab5950649d8200613
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709270783137
+status: 3
+tags: []
+user_id: dariusstrongman

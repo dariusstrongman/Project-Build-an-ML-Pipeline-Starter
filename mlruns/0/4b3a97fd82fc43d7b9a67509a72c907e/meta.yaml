@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4b3a97fd82fc43d7b9a67509a72c907e/artifacts
+end_time: 1709275354406
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b3a97fd82fc43d7b9a67509a72c907e
+run_name: marvelous-gull-615
+run_uuid: 4b3a97fd82fc43d7b9a67509a72c907e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709275342205
+status: 3
+tags: []
+user_id: dariusstrongman

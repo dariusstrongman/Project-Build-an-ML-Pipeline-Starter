@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/db3ddedf3128414fb1276e5cd2e5675e/artifacts
+end_time: 1709260009363
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db3ddedf3128414fb1276e5cd2e5675e
+run_name: charming-sheep-807
+run_uuid: db3ddedf3128414fb1276e5cd2e5675e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709260008275
+status: 4
+tags: []
+user_id: dariusstrongman

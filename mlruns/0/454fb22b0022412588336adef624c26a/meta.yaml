@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/454fb22b0022412588336adef624c26a/artifacts
+end_time: 1709335852780
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 454fb22b0022412588336adef624c26a
+run_name: fearless-mink-673
+run_uuid: 454fb22b0022412588336adef624c26a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709335840168
+status: 3
+tags: []
+user_id: dariusstrongman

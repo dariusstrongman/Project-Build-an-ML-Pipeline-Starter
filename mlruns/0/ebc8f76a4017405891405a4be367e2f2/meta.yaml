@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ebc8f76a4017405891405a4be367e2f2/artifacts
+end_time: 1709272167018
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebc8f76a4017405891405a4be367e2f2
+run_name: invincible-goose-510
+run_uuid: ebc8f76a4017405891405a4be367e2f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709272150197
+status: 3
+tags: []
+user_id: dariusstrongman

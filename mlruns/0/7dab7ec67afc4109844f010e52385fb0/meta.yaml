@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7dab7ec67afc4109844f010e52385fb0/artifacts
+end_time: 1709259963990
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7dab7ec67afc4109844f010e52385fb0
+run_name: colorful-carp-517
+run_uuid: 7dab7ec67afc4109844f010e52385fb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709259927084
+status: 4
+tags: []
+user_id: dariusstrongman

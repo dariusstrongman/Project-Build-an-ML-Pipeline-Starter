@@ -1,0 +1,4 @@
+2024-03-01 16:46:19,389 Downloading input artifact: sample.csv:latest
+2024-03-01 16:46:20,625 Applying basic cleaning steps.
+2024-03-01 16:46:20,652 Saving cleaned data to clean_sample.csv.
+2024-03-01 16:46:20,814 Logging cleaned data as an artifact in W&B.

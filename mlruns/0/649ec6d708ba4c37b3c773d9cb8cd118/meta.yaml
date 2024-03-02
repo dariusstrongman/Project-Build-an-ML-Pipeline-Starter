@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/649ec6d708ba4c37b3c773d9cb8cd118/artifacts
+end_time: 1709335185659
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 649ec6d708ba4c37b3c773d9cb8cd118
+run_name: big-colt-155
+run_uuid: 649ec6d708ba4c37b3c773d9cb8cd118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709335182759
+status: 4
+tags: []
+user_id: dariusstrongman

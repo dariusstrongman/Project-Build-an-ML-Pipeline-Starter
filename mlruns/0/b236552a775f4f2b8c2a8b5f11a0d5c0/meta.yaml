@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b236552a775f4f2b8c2a8b5f11a0d5c0/artifacts
+end_time: 1709272730029
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b236552a775f4f2b8c2a8b5f11a0d5c0
+run_name: stately-flea-198
+run_uuid: b236552a775f4f2b8c2a8b5f11a0d5c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709272714920
+status: 4
+tags: []
+user_id: dariusstrongman

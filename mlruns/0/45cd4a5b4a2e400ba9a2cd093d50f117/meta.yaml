@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/45cd4a5b4a2e400ba9a2cd093d50f117/artifacts
+end_time: 1709273207368
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45cd4a5b4a2e400ba9a2cd093d50f117
+run_name: capable-yak-238
+run_uuid: 45cd4a5b4a2e400ba9a2cd093d50f117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709273194029
+status: 3
+tags: []
+user_id: dariusstrongman

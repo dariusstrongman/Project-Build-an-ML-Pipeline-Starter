@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4797fe85b27d4db8949d6e3cb319bf82/artifacts
+end_time: 1709272042325
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4797fe85b27d4db8949d6e3cb319bf82
+run_name: zealous-sow-741
+run_uuid: 4797fe85b27d4db8949d6e3cb319bf82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709272033763
+status: 3
+tags: []
+user_id: dariusstrongman

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a821542188ab4333a0204d8604ad2c0e/artifacts
+end_time: 1709274841201
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a821542188ab4333a0204d8604ad2c0e
+run_name: trusting-carp-778
+run_uuid: a821542188ab4333a0204d8604ad2c0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709274828532
+status: 3
+tags: []
+user_id: dariusstrongman

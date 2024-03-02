@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e1bf873b1b1c43b8b5b368a19b1d3565/artifacts
+end_time: 1709271089037
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1bf873b1b1c43b8b5b368a19b1d3565
+run_name: smiling-deer-551
+run_uuid: e1bf873b1b1c43b8b5b368a19b1d3565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709271086113
+status: 4
+tags: []
+user_id: dariusstrongman

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/477cc89e3bd84415bf0785586aa3c415/artifacts
+end_time: 1709274841389
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 477cc89e3bd84415bf0785586aa3c415
+run_name: colorful-finch-693
+run_uuid: 477cc89e3bd84415bf0785586aa3c415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709274823822
+status: 3
+tags: []
+user_id: dariusstrongman

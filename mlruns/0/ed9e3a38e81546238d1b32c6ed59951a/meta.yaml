@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ed9e3a38e81546238d1b32c6ed59951a/artifacts
+end_time: 1709339189804
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed9e3a38e81546238d1b32c6ed59951a
+run_name: debonair-crane-839
+run_uuid: ed9e3a38e81546238d1b32c6ed59951a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709339122832
+status: 3
+tags: []
+user_id: dariusstrongman

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9ffca220cf5d48009132473fec203cd2/artifacts
+end_time: 1709275080952
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ffca220cf5d48009132473fec203cd2
+run_name: bemused-shark-623
+run_uuid: 9ffca220cf5d48009132473fec203cd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709275066852
+status: 3
+tags: []
+user_id: dariusstrongman

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cf1016dab772450a8fc9012c05179197/artifacts
+end_time: 1709269708605
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf1016dab772450a8fc9012c05179197
+run_name: thundering-kite-805
+run_uuid: cf1016dab772450a8fc9012c05179197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709269707379
+status: 4
+tags: []
+user_id: dariusstrongman

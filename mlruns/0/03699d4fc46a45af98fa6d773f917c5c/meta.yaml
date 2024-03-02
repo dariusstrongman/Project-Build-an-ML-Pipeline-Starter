@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/03699d4fc46a45af98fa6d773f917c5c/artifacts
+end_time: 1709335964104
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03699d4fc46a45af98fa6d773f917c5c
+run_name: indecisive-mole-497
+run_uuid: 03699d4fc46a45af98fa6d773f917c5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709335949374
+status: 4
+tags: []
+user_id: dariusstrongman

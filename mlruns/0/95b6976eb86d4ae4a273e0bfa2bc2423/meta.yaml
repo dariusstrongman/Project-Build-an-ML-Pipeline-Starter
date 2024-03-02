@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/95b6976eb86d4ae4a273e0bfa2bc2423/artifacts
+end_time: 1709336253019
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95b6976eb86d4ae4a273e0bfa2bc2423
+run_name: burly-bear-229
+run_uuid: 95b6976eb86d4ae4a273e0bfa2bc2423
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709336229758
+status: 3
+tags: []
+user_id: dariusstrongman

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f6aaccb060f0423184a067db9f0520f2/artifacts
+end_time: 1709272615730
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6aaccb060f0423184a067db9f0520f2
+run_name: polite-sheep-698
+run_uuid: f6aaccb060f0423184a067db9f0520f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709272603875
+status: 4
+tags: []
+user_id: dariusstrongman

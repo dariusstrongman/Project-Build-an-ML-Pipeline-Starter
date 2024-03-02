@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/39aba5d4b9bb4dad8c94bba1b705bebc/artifacts
+end_time: 1709333185494
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39aba5d4b9bb4dad8c94bba1b705bebc
+run_name: awesome-shrew-620
+run_uuid: 39aba5d4b9bb4dad8c94bba1b705bebc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709333171338
+status: 3
+tags: []
+user_id: dariusstrongman

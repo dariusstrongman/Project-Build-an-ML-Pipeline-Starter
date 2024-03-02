@@ -1,0 +1,33 @@
+2024-03-01 00:17:52,090 INFO    MainThread:4423 [wandb_setup.py:_flush():68] Configure stats pid to 4423
+2024-03-01 00:17:52,090 INFO    MainThread:4423 [wandb_setup.py:_flush():68] Loading settings from /home/dariusstrongman/.config/wandb/settings
+2024-03-01 00:17:52,090 INFO    MainThread:4423 [wandb_setup.py:_flush():68] Loading settings from /home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/settings
+2024-03-01 00:17:52,090 INFO    MainThread:4423 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'_require_service': 'True', 'run_group': 'development', 'project': 'nyc_airbnb'}
+2024-03-01 00:17:52,090 INFO    MainThread:4423 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program_relpath': 'src/basic_cleaning/run.py', 'program': '/home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/run.py'}
+2024-03-01 00:17:52,090 INFO    MainThread:4423 [wandb_init.py:_log_setup():478] Logging user logs to /home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240301_001752-zps331du/logs/debug.log
+2024-03-01 00:17:52,090 INFO    MainThread:4423 [wandb_init.py:_log_setup():479] Logging internal logs to /home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240301_001752-zps331du/logs/debug-internal.log
+2024-03-01 00:17:52,091 INFO    MainThread:4423 [wandb_init.py:init():518] calling init triggers
+2024-03-01 00:17:52,091 INFO    MainThread:4423 [wandb_init.py:init():521] wandb.init called with sweep_config: {}
+config: {}
+2024-03-01 00:17:52,091 INFO    MainThread:4423 [wandb_init.py:init():571] starting backend
+2024-03-01 00:17:52,091 INFO    MainThread:4423 [wandb_init.py:init():575] setting up manager
+2024-03-01 00:17:52,092 INFO    MainThread:4423 [backend.py:_multiprocessing_setup():106] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-03-01 00:17:52,094 INFO    MainThread:4423 [wandb_init.py:init():582] backend started and connected
+2024-03-01 00:17:52,096 INFO    MainThread:4423 [wandb_init.py:init():670] updated telemetry
+2024-03-01 00:17:52,107 INFO    MainThread:4423 [wandb_init.py:init():710] communicating run to backend with 60.0 second timeout
+2024-03-01 00:17:52,453 INFO    MainThread:4423 [wandb_run.py:_on_init():2121] communicating current version
+2024-03-01 00:17:52,532 INFO    MainThread:4423 [wandb_run.py:_on_init():2125] got version response upgrade_message: "wandb version 0.16.3 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2024-03-01 00:17:52,532 INFO    MainThread:4423 [wandb_init.py:init():758] starting run threads in backend
+2024-03-01 00:17:53,123 INFO    MainThread:4423 [wandb_run.py:_console_start():2101] atexit reg
+2024-03-01 00:17:53,123 INFO    MainThread:4423 [wandb_run.py:_redirect():1959] redirect: SettingsConsole.WRAP_RAW
+2024-03-01 00:17:53,124 INFO    MainThread:4423 [wandb_run.py:_redirect():2024] Wrapping output streams.
+2024-03-01 00:17:53,124 INFO    MainThread:4423 [wandb_run.py:_redirect():2046] Redirects installed.
+2024-03-01 00:17:53,124 INFO    MainThread:4423 [wandb_init.py:init():798] run started, returning control to user process
+2024-03-01 00:17:53,125 INFO    MainThread:4423 [wandb_run.py:_config_callback():1249] config_cb None None {'input_artifact': 'sample.csv:latest', 'output_artifact': 'clean_sample.csv', 'output_type': 'clean_sample', 'output_description': 'Data with outliers and null values removed', 'min_price': 10.0, 'max_price': 350.0}
+2024-03-01 00:17:54,172 INFO    MainThread:4423 [wandb_run.py:_finish():1844] finishing run dariuswork/nyc_airbnb/zps331du
+2024-03-01 00:17:54,172 INFO    MainThread:4423 [wandb_run.py:_atexit_cleanup():2070] got exitcode: 0
+2024-03-01 00:17:54,172 INFO    MainThread:4423 [wandb_run.py:_restore():2053] restore
+2024-03-01 00:17:54,173 INFO    MainThread:4423 [wandb_run.py:_restore():2059] restore done
+2024-03-01 00:18:29,540 INFO    MainThread:4423 [wandb_run.py:_footer_history_summary_info():3427] rendering history
+2024-03-01 00:18:29,540 INFO    MainThread:4423 [wandb_run.py:_footer_history_summary_info():3459] rendering summary
+2024-03-01 00:18:29,542 INFO    MainThread:4423 [wandb_run.py:_footer_sync_info():3383] logging synced files

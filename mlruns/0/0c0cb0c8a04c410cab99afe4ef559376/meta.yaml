@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0c0cb0c8a04c410cab99afe4ef559376/artifacts
+end_time: 1709335907973
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c0cb0c8a04c410cab99afe4ef559376
+run_name: efficient-shrike-851
+run_uuid: 0c0cb0c8a04c410cab99afe4ef559376
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709335897918
+status: 3
+tags: []
+user_id: dariusstrongman

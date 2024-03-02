@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d7ca7f2334cc433e93783f9fc17fd227/artifacts
+end_time: 1709340466772
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7ca7f2334cc433e93783f9fc17fd227
+run_name: gaudy-bat-603
+run_uuid: d7ca7f2334cc433e93783f9fc17fd227
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709340364509
+status: 3
+tags: []
+user_id: dariusstrongman

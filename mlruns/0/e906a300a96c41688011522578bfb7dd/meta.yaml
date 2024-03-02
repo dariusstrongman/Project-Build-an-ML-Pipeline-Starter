@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e906a300a96c41688011522578bfb7dd/artifacts
+end_time: 1709333185679
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e906a300a96c41688011522578bfb7dd
+run_name: fearless-mule-783
+run_uuid: e906a300a96c41688011522578bfb7dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709333169169
+status: 3
+tags: []
+user_id: dariusstrongman

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9c1c4b26b8cc4be3b879c6d87c0dcf3b/artifacts
+end_time: 1709275647011
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c1c4b26b8cc4be3b879c6d87c0dcf3b
+run_name: sedate-frog-249
+run_uuid: 9c1c4b26b8cc4be3b879c6d87c0dcf3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709275643847
+status: 4
+tags: []
+user_id: dariusstrongman

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/24bd883e7b6444c1ab45c8a753250e09/artifacts
+end_time: 1709339491631
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24bd883e7b6444c1ab45c8a753250e09
+run_name: brawny-wasp-211
+run_uuid: 24bd883e7b6444c1ab45c8a753250e09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709339119660
+status: 3
+tags: []
+user_id: dariusstrongman

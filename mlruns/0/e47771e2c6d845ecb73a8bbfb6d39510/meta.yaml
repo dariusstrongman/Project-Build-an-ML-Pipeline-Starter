@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e47771e2c6d845ecb73a8bbfb6d39510/artifacts
+end_time: 1709273068194
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e47771e2c6d845ecb73a8bbfb6d39510
+run_name: clumsy-perch-450
+run_uuid: e47771e2c6d845ecb73a8bbfb6d39510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709273057182
+status: 3
+tags: []
+user_id: dariusstrongman

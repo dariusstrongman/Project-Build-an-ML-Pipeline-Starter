@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9bde040ad69f49a88ab434d76e35fa5c/artifacts
+end_time: 1709339098904
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bde040ad69f49a88ab434d76e35fa5c
+run_name: luxuriant-fox-636
+run_uuid: 9bde040ad69f49a88ab434d76e35fa5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709338956403
+status: 3
+tags: []
+user_id: dariusstrongman

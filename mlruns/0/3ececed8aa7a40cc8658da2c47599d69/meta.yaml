@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3ececed8aa7a40cc8658da2c47599d69/artifacts
+end_time: 1709272521873
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ececed8aa7a40cc8658da2c47599d69
+run_name: nervous-croc-83
+run_uuid: 3ececed8aa7a40cc8658da2c47599d69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709272507847
+status: 3
+tags: []
+user_id: dariusstrongman

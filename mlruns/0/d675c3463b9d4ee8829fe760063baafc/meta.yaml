@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d675c3463b9d4ee8829fe760063baafc/artifacts
+end_time: 1709338527398
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d675c3463b9d4ee8829fe760063baafc
+run_name: placid-slug-87
+run_uuid: d675c3463b9d4ee8829fe760063baafc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709338515044
+status: 4
+tags: []
+user_id: dariusstrongman

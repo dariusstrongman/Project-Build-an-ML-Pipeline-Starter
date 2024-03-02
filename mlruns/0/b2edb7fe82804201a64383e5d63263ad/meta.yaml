@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b2edb7fe82804201a64383e5d63263ad/artifacts
+end_time: 1709273207553
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2edb7fe82804201a64383e5d63263ad
+run_name: gifted-goat-342
+run_uuid: b2edb7fe82804201a64383e5d63263ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709273191706
+status: 3
+tags: []
+user_id: dariusstrongman

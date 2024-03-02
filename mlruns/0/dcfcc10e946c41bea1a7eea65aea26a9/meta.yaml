@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/dcfcc10e946c41bea1a7eea65aea26a9/artifacts
+end_time: 1709260041209
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dcfcc10e946c41bea1a7eea65aea26a9
+run_name: bouncy-shrimp-128
+run_uuid: dcfcc10e946c41bea1a7eea65aea26a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709260040104
+status: 4
+tags: []
+user_id: dariusstrongman

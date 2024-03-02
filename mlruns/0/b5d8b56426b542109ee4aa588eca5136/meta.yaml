@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b5d8b56426b542109ee4aa588eca5136/artifacts
+end_time: 1709255578429
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5d8b56426b542109ee4aa588eca5136
+run_name: welcoming-hen-827
+run_uuid: b5d8b56426b542109ee4aa588eca5136
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709255400756
+status: 3
+tags: []
+user_id: dariusstrongman

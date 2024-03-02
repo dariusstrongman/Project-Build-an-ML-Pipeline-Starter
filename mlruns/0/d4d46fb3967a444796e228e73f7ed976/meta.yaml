@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d4d46fb3967a444796e228e73f7ed976/artifacts
+end_time: 1709259963608
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4d46fb3967a444796e228e73f7ed976
+run_name: masked-auk-35
+run_uuid: d4d46fb3967a444796e228e73f7ed976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709259929301
+status: 4
+tags: []
+user_id: dariusstrongman

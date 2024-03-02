@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dariusstrongman/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ac50689c63ca4fc9844a57573ad70e50/artifacts
+end_time: 1709331177866
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac50689c63ca4fc9844a57573ad70e50
+run_name: dashing-bat-258
+run_uuid: ac50689c63ca4fc9844a57573ad70e50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709331163946
+status: 4
+tags: []
+user_id: dariusstrongman
