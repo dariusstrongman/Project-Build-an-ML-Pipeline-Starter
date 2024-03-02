@@ -1,24 +1,17 @@
+We're Using Weights & Biases!
+Hey there! In this project, we're using this super cool tool called Weights & Biases to keep track of all our ML experiments. It's like having a super detailed diary for our machine learning model, where we can see how well it's learning and make it smarter over time!
 
+Check Out Our Project Dashboard
+Want to see how our project is doing? Click on the link below to check out our dashboard on Weights & Biases. It's where we keep all our project's progress and results:
 
-User
-https://github.com/dariusstrongman/Project-Build-an-ML-Pipeline-Starter.git
-GPT
-Talked to pluginlab.askthecode.dsomok.online
-The repository "Project-Build-an-ML-Pipeline-Starter" on GitHub has a main branch containing various files and directories, which are structured as follows:
+(https://wandb.ai/dariuswork/nyc_airbnb?workspace=user-dariusstroman
 
-GitHub workflows, license, and README files at the root level.
-A components directory containing multiple ML components, each with its own MLproject file, conda.yml for environment setup, and Python scripts. It also includes utility scripts for Weights & Biases (wandb) integration.
-Configuration files such as MLproject, conda.yml, config.yaml, and environment.yml in the root directory for setting up the ML project and environment.
-An images directory with images related to the project documentation.
-The main.py script, presumably the main entry point for the project.
-A src directory with subdirectories for various stages of the ML pipeline, like basic_cleaning, data_check, eda (Exploratory Data Analysis with a Jupyter notebook), and train_random_forest. Each of these subdirectories contains an MLproject file, conda.yml, and Python scripts relevant to the stage.
-This structure suggests a modular ML project setup using MLflow, with separate components for data preparation, exploratory data analysis, model training, etc., and integration with wandb for experiment tracking.
+On the dashboard, you'll find stuff like:
 
-Is there a specific part of the repository you would like to explore further or any specific task you need assistance with?
-
-
-1 / 2
-
+How well our model is learning over time
+The settings we played with to make our model better
+Cool charts that show what our model is predicting
+A history of all the changes we made to our model
 User
 Project Environment Set Up
 Create Environment Locally
